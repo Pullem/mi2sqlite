@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mi2sqlite", "mi2sqlite.pyproj", "{CFC94EE4-3453-4AD3-B762-25B064EE506E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC94EE4-3453-4AD3-B762-25B064EE506E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC94EE4-3453-4AD3-B762-25B064EE506E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB673B8-4151-4F41-8D1F-C419FD3DB6FC}
+	EndGlobalSection
+EndGlobal
